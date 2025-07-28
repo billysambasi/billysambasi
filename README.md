@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Billy, an analytical and solution-driven tech enthusiast with hands-on experience in: <br><br>- data analysis,<br>- statistical modeling,<br>- machine learning, and<br>- recommendation systems.<br><br>Skilled in building insights-driven solutions from complex datasets using: <br>- Python,<br>- SQL, and<br>- ML frameworks.<br><br>Adept at implementing human-centered, data-ethical approaches to real-world challenges. 
+I am Billy, an analytical and solution-driven tech enthusiast with hands-on experience in: <br><br>- data analysis,<br>- statistical modeling, and<br>- machine learning.<br><br>Skilled in building insights-driven solutions from complex datasets using: <br>- Python,<br>- SQL, and<br>- ML frameworks.<br><br>Adept at implementing human-centered, data-ethical approaches to real-world challenges. 
 
 
 ## 🌐 Socials:
