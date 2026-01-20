@@ -1,5 +1,77 @@
-# 💫 About Me  
-👋 Hi, I’m **Billy Sambasi** — an analytical, solution-driven tech enthusiast passionate about transforming complex datasets into actionable insights. With a strong background in **data science, statistical modeling, and machine learning**, I thrive at the intersection of technology and business, building solutions that are not only technically sound but also ethically responsible and human-centered.  
+#  Hi — I'm Billy Sambasi 👋
+An analytical, solution-driven tech enthusiast passionate about transforming complex datasets into actionable insights. With a strong background in **data science, statistical modeling, and machine learning**, I thrive at the intersection of technology and business, building solutions that are not only technically sound but also ethically responsible and human-centered. I design and ship data-driven applications and reliable web experiences. I enjoy turning raw data into actionable insights and clean, maintainable code.
+
+---
+
+## Quick snapshot
+- 🔭 Currently building: data products and tooling for time-series analytics
+- 🌱 Learning: production ML pipelines, scalable time-series systems
+- 💬 Ask me about: time-series forecasting, data visualization, API design
+- ⚡ Fun fact: I enjoy crafting reproducible notebooks and thoughtful onboarding flows
+
+---
+
+## Tech & tools
+- Languages: Python, SQL
+- Data & ML: Pandas, NumPy, scikit-learn, TensorFlow
+- Backend: FastAPI
+- Frontend & viz: Streamlit
+- Infra: Docker, 
+- Other: Jupyter, Git, CI/CD
+
+---
+
+## Featured projects
+
+### Time Series Project
+- Short description: Toolkit and app for time-series analysis, forecasting, and anomaly detection — from dataset processing to model evaluation and visual exploration.
+- Tech: Python, pandas, scikit-learn / Prophet / TensorFlow, Streamlit (or a small web UI)
+- Highlights:
+  - Reproducible notebooks that demonstrate preprocessing, feature engineering, and baseline forecasting
+  - Time-series cross-validation and backtesting workflows
+  - Interactive dashboard for exploring forecasts and anomalies
+- Try locally:
+```bash
+git clone [<TIME-SERIES-REPO-URL>](https://github.com/billysambasi/Time_Series_Forecasting.git)
+cd <[repo](https://github.com/billysambasi/Time_Series_Forecasting.git)>
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+streamlit run app.py   # or `uvicorn app:app --reload`
+```
+
+---
+
+### Huduma Satisfaction Project
+- Short description: Analysis and dashboard for Huduma service satisfaction — includes data cleaning, sentiment / survey analysis, and visual reporting for stakeholders.
+- Tech: Python, pandas, Jupyter notebooks, Plotly/Dash or Streamlit
+- Highlights:
+  - End-to-end pipeline: raw survey ingestion → cleaning → metrics → dashboard
+  - Stakeholder-focused visualizations and exportable reports
+  - Modular code for repeated analyses and monitoring
+- Try locally:
+```bash
+git clone [<HUDUMA-REPO-URL>](https://github.com/billysambasi/Huduma_Satisfaction_Prediction.git)
+cd <[repo](https://github.com/billysambasi/Huduma_Satisfaction_Prediction.git)>
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+jupyter lab             # or run the dashboard: streamlit run dashboard.py
+```
+
+---
+
+## How I work
+- Empathy-first: I aim to understand user needs before designing solutions
+- Small, testable increments: frequent releases, tests, and metrics
+- Documentation & reproducibility: thorough README and runnable notebooks by default
+
+---
+
+## 🌐 Get in touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billysambasi)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@billy_sambasi)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bnsambasi@gmail.com)  
 
 ---
 
@@ -27,25 +99,11 @@
 
 ---
 
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billysambasi)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@billy_sambasi)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bnsambasi@gmail.com)  
-
----
-
 ## 🎯 Current Focus  
 - 🔍 Exploring **advanced deep learning architectures**  
 - 📊 Building **real-time analytics dashboards** for business intelligence  
 - 🤖 Developing **ethical AI solutions** with interpretable models  
 - 📈 Contributing to **open-source ML projects**  
-
----
-
-## 🚀 Featured Projects  
-- **Predictive Analytics Pipeline**: End-to-end ML solution for forecasting business KPIs.  
-- **Interactive Visualization Dashboard**: Real-time analytics platform powered by Python & SQL.  
-- **Statistical Analysis Framework**: Toolkit for hypothesis testing and experimental design.  
 
 ---
 
@@ -61,7 +119,6 @@
 ## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=billysambasi&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
 
 ---
 
