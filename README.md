@@ -18,7 +18,7 @@ An analytical, solution-driven tech enthusiast passionate about transforming com
 - Frontend & viz: Streamlit
 - Infra: Docker, 
 - Other: Jupyter, Git, CI/CD
-
+  
 ---
 
 ## Featured projects
@@ -32,14 +32,9 @@ An analytical, solution-driven tech enthusiast passionate about transforming com
   - Interactive dashboard for exploring forecasts and anomalies
 - Try locally:
 ```bash
-git clone [<TIME-SERIES-REPO-URL>](https://github.com/billysambasi/Time_Series_Forecasting.git)
-cd <[repo](https://github.com/billysambasi/Time_Series_Forecasting.git)>
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-streamlit run app.py   # or `uvicorn app:app --reload`
+git clone https://github.com/billysambasi/Time_Series_Forecasting.git
+cd Time_Series_Forecasting.git
 ```
-
 ---
 
 ### Huduma Satisfaction Project
@@ -51,14 +46,9 @@ streamlit run app.py   # or `uvicorn app:app --reload`
   - Modular code for repeated analyses and monitoring
 - Try locally:
 ```bash
-git clone [<HUDUMA-REPO-URL>](https://github.com/billysambasi/Huduma_Satisfaction_Prediction.git)
-cd <[repo](https://github.com/billysambasi/Huduma_Satisfaction_Prediction.git)>
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-jupyter lab             # or run the dashboard: streamlit run dashboard.py
+git clone https://github.com/billysambasi/Huduma_Satisfaction_Prediction.git
+cd Huduma_Satisfaction_Prediction
 ```
-
 ---
 
 ## How I work
@@ -92,12 +82,10 @@ jupyter lab             # or run the dashboard: streamlit run dashboard.py
 ---
 
 ## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=billysambasi&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150"/> 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=billysambasi&theme=dark&hide_border=false" height="150"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billysambasi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150"/> 
-</p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=billysambasi&theme=dark&hide_border=false" height="150"/>
 
 ---
 
-⚡ **Fun fact**: The best insights don’t just come from having the right data — they come from asking the right questions!  
+⚡ **Fun fact: I believe the best insights don’t just come from data — they come from asking the right questions and telling the right story.**
+
