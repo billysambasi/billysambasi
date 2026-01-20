@@ -83,22 +83,6 @@ jupyter lab             # or run the dashboard: streamlit run dashboard.py
 
 ---
 
-## 🛠️ Tech Arsenal  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/> 
-</p>
-
----
-
 ## 🎯 Current Focus  
 - 🔍 Exploring **advanced deep learning architectures**  
 - 📊 Building **real-time analytics dashboards** for business intelligence  
@@ -113,12 +97,6 @@ jupyter lab             # or run the dashboard: streamlit run dashboard.py
   <img src="https://nirzak-streak-stats.vercel.app/?user=billysambasi&theme=dark&hide_border=false" height="150"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billysambasi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150"/> 
 </p>
-
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=billysambasi&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 
 ---
 
