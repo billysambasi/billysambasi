@@ -16,7 +16,7 @@ An analytical, solution-driven tech enthusiast passionate about transforming com
 - Data & ML: Pandas, NumPy, scikit-learn, TensorFlow
 - Backend: FastAPI
 - Frontend & viz: Streamlit
-- Infra: Docker, 
+- Infra: Docker
 - Other: Jupyter, Git, CI/CD
   
 ---
@@ -27,9 +27,9 @@ An analytical, solution-driven tech enthusiast passionate about transforming com
 - Short description: Toolkit and app for time-series analysis, forecasting, and anomaly detection — from dataset processing to model evaluation and visual exploration.
 - Tech: Python, pandas, scikit-learn / Prophet / TensorFlow, Streamlit (or a small web UI)
 - Highlights:
-  - Reproducible notebooks that demonstrate preprocessing, feature engineering, and baseline forecasting
-  - Time-series cross-validation and backtesting workflows
-  - Interactive dashboard for exploring forecasts and anomalies
+1. Reproducible notebooks that demonstrate preprocessing, feature engineering, and baseline forecasting
+2. Time-series cross-validation and backtesting workflows
+3. Interactive dashboard for exploring forecasts and anomalies
 - Try locally:
 ```bash
 git clone https://github.com/billysambasi/Time_Series_Forecasting.git
@@ -41,9 +41,9 @@ cd Time_Series_Forecasting.git
 - Short description: Analysis and dashboard for Huduma service satisfaction — includes data cleaning, sentiment / survey analysis, and visual reporting for stakeholders.
 - Tech: Python, pandas, Jupyter notebooks, Plotly/Dash or Streamlit
 - Highlights:
-  - End-to-end pipeline: raw survey ingestion → cleaning → metrics → dashboard
-  - Stakeholder-focused visualizations and exportable reports
-  - Modular code for repeated analyses and monitoring
+1. End-to-end pipeline: raw survey ingestion → cleaning → metrics → dashboard
+2. Stakeholder-focused visualizations and exportable reports
+3. Modular code for repeated analyses and monitoring
 - Try locally:
 ```bash
 git clone https://github.com/billysambasi/Huduma_Satisfaction_Prediction.git
