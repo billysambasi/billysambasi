@@ -1,4 +1,5 @@
-#  Hi — I'm Billy Sambasi 👋
+#  Halo there. My name is Billy Sambasi 👋
+
 An analytical, solution-driven tech enthusiast passionate about transforming complex datasets into actionable insights. With a strong background in **data science, statistical modeling, and machine learning**, I thrive at the intersection of technology and business, building solutions that are not only technically sound but also ethically responsible and human-centered. I design and ship data-driven applications and reliable web experiences. I enjoy turning raw data into actionable insights and clean, maintainable code.
 
 ---
