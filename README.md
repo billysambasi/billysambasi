@@ -2,7 +2,7 @@
 
 **Data Science | Machine Learning | Time-Series Analytics | Data Products**
 
-Analytical, solution-driven tech enthusiast passionate about transforming complex datasets into actionable insights. I specialize in building **production-ready data systems** that combine rigorous[...]
+Analytical, solution-driven tech enthusiast passionate about transforming complex datasets into actionable insights. I specialize in building **production-ready data systems**. 
 
 ---
 
@@ -18,9 +18,9 @@ Analytical, solution-driven tech enthusiast passionate about transforming comple
 
 ## 🚀 Current Focus
 
-- 🔭 **Building**: Production ML pipelines and scalable time-series systems
+- 🔭 **Building**: Production ML pipelines and scalable AI systems
 - 🌱 **Learning**: Advanced deep learning architectures & real-time analytics infrastructure
-- 💬 **Expert in**: Time-series forecasting, statistical modeling, data visualization, API design
+- 💬 **Expert in**: AI development and deployment, statistical modeling, data visualization, API design
 - 🤝 **Contributing to**: Open-source ML and data science projects
 
 ---
@@ -28,7 +28,7 @@ Analytical, solution-driven tech enthusiast passionate about transforming comple
 ## 🛠️ Tech Stack
 
 ```
-Languages        │ Python, SQL, Bash
+Languages        │ Python, SQL, Bash, TS
 ─────────────────┼─────────────────────────────────────────────
 Data & ML        │ Pandas, NumPy, Scikit-learn, TensorFlow, Prophet
 ─────────────────┼─────────────────────────────────────────────
@@ -130,9 +130,9 @@ I'm passionate about staying at the forefront of data science and ML engineering
 - Advanced transformer architectures and LLMs
 - Real-time analytics and streaming systems
 - MLOps and model governance frameworks
-- Cutting-edge time-series methods
+- Cutting-edge AI systems and deployment options
 
 ---
 
-**⚡ Philosophy**: The best insights don't just come from data — they come from asking the right questions, rigorous analysis, and telling a compelling story.
+**⚡ Philosophy**: The best insights don't just come from data - they come from asking the right questions, rigorous analysis, and telling a compelling story.
 
