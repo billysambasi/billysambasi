@@ -2,7 +2,7 @@
 
 **Data Science | Machine Learning | Time-Series Analytics | Data Products**
 
-Analytical, solution-driven tech enthusiast passionate about transforming complex datasets into actionable insights. I specialize in building **production-ready data systems** that combine rigorous statistical modeling with thoughtful engineering.
+Analytical, solution-driven tech enthusiast passionate about transforming complex datasets into actionable insights. I specialize in building **production-ready data systems** that combine rigorous[...]
 
 ---
 
@@ -100,11 +100,15 @@ Comprehensive analysis and dashboard for Huduma service satisfaction — include
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=billysambasi&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=billysambasi&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" height="1[...]
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billysambasi&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=billysambasi&theme=dark&hide_border=true" alt="GitHub Contribution Streak" height="165"/>
 </p>
 
 ---
