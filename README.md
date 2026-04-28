@@ -101,7 +101,6 @@ Comprehensive analysis and dashboard for Huduma service satisfaction — include
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=billysambasi&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" height="165"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=billysambasi&theme=dark&hide_border=true" alt="Streak Stats" height="165"/>
 </p>
 
 <p align="center">
