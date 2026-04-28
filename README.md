@@ -113,6 +113,14 @@ Comprehensive analysis and dashboard for Huduma service satisfaction — include
 
 ---
 
+## 📈 Coding Activity Tracker
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=billysambasi&theme=dark-green&hide_border=true&area=true" alt="Contribution Activity Graph" height="300"/>
+</p>
+
+---
+
 ## 🌐 Let's Connect
 
 I'm always interested in discussing data science, ML engineering, and building impactful products. Feel free to reach out!
