@@ -131,6 +131,7 @@ I'm passionate about staying at the forefront of data science and ML engineering
 - Real-time analytics and streaming systems
 - MLOps and model governance frameworks
 - Cutting-edge AI systems and deployment options
+- Cybersecurity: system hardening, cryptography, secure coding and incident response
 
 ---
 
